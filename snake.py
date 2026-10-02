@@ -5,4 +5,6 @@ class Snake:
 
 snake1 = Snake(1,2);
 print(snake1.x)
+snake2 = Snake(3,4);
+print(snake2.y)
 
